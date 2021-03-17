@@ -1,4 +1,4 @@
- 👋  Bonjour-Hi, I’m Nathalie from Montréal. The "h" is silent.
+ 👋  Bonjour-Hi, I’m Nathalie from Montréal. The "h" is silent. In my name, not in "Hi". 
  
  ⚕️  I'm starting a master's degree at ULaval in epidemiology in Fall 2021.
  

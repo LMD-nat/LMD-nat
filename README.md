@@ -6,4 +6,4 @@
  
  🗣  Also interested in bilingualism, open science, and programming.
  
- ☎️  Give me a ring ([or a click?](mailto:nathalie.germain@mail.concordia.ca)). 
+ ☎️  Give me a ring ([or a click, technically](mailto:nathalie.germain@mail.concordia.ca)). 

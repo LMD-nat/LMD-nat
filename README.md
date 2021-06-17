@@ -1,4 +1,6 @@
 Bonjour-Hi, I’m Nathalie from Montréal.
+
+[![Nathalie's GitHub stats](https://github-readme-stats.vercel.app/api?username=LMD-nat)](https://github.com/anuraghazra/github-readme-stats)
  
 I'm starting a master's degree at Université Laval in epidemiology in Fall 2021. I have a BA (honours) in psychology from Concordia.
  

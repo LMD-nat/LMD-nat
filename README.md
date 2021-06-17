@@ -1,11 +1,9 @@
-Bonjour-Hi, I’m Nathalie from Montréal.
-
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=LMD-nat&hide=prs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
- 
-I'm starting a master's degree at Université Laval in epidemiology in Fall 2021. I have a BA (honours) in psychology from Concordia.
- 
-I’m currently learning all about cognition and how people make choices at the [LDMLab](http://www.ldmlab.org/).
- 
-Also interested in bilingualism, open science, and programming.
- 
-Give me a ring ([or a click, technically](mailto:nathalie.germain@mail.concordia.ca)). 
+
+Bonjour-Hi, I’m Nathalie from Montréal. I am an MSc student in epidemiology at Université Laval. 
+
+I'll be researching how decision-making affects patient outcomes. 
+
+Currently I help run the [Lifespan and Decision-Making Lab](http://www.ldmlab.org/) at Concordia, where I got my BA. 
+
+I'm also interested in bilingualism, open science, and programming. 

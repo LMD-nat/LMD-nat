@@ -1,4 +1,4 @@
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=LMD-nat&hide=prs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=LMD-nat&hide=prs&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 Bonjour-Hi, I’m Nathalie from Montréal. I am an MSc student in epidemiology at Université Laval in Québec City, Canada. 
 

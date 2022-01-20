@@ -1,7 +1,5 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=LMD-nat&hide=prs&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LMD-nat)](https://github.com/anuraghazra/github-readme-stats)
-
 Bonjour-Hi, I’m Nathalie from Montréal. I am an MSc student in epidemiology at Université Laval in Québec City, Canada. 
 
 I'll be researching how decision-making affects patient outcomes. I know R and JavaScript pretty well, and I'm learning SAS and Python currently. 
